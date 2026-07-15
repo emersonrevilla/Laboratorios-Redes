@@ -1,1 +1,5 @@
+Asignacion de Ips a las interfaces que salen a las computadoras 
 
+/ip address
+add address=192.168.10.1/24 interface=ether1 comment="Red PC1"
+add address=192.168.20.1/24 interface=ether2 comment="Red PC2"
