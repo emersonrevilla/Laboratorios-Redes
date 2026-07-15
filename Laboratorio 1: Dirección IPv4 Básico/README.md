@@ -1,11 +1,11 @@
-Actividades
-Configurar IPs.
-Configurar Gateway.
-Verificar ping.
-Verificar ARP.
-Verificar tabla de rutas.
+## Actividades
+# Configurar IPs.
+# Configurar Gateway.
+# Verificar ping.
+# Verificar ARP.
+# Verificar tabla de rutas.
 
-#solucion
+## solucion
 # Configuración del Router MikroTik
 
 ## Paso 1: Cambiar el nombre del router
